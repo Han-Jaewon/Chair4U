@@ -29,9 +29,8 @@ export default function HeroPage() {
             <p className="text-3xl font-semibold text-gray-700 mb-6">
               당신만을 위한 의자 추천 시스템
             </p>
-            <p className="text-xl text-gray-600 mb-10 leading-relaxed">
-              더 이상 알아보지 않아도 됩니다.<br />
-              AI가 당신의 체형을 분석합니다.<br />
+            <p className="text-lg text-gray-600 mb-10 leading-relaxed">
+              더 이상 알아보지 않아도 됩니다. AI가 당신의 체형을 분석합니다.<br />
               <span className="text-blue-600 font-semibold">사진 1장</span>으로 가능한 나만의 의자 피팅 서비스
             </p>
             <button
