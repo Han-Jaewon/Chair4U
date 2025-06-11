@@ -8,7 +8,11 @@ Chair4U/
 ├── frontend/            ← React 프론트엔드
 │   ├── public/
 │   └── src/
-│       ├── App.jsx
+|       ├── pages/
+|       |   ├── HeroPage.jsx
+│       ├── App.css
+|       ├── App.js
+|       ├── index.css
 │       └── index.js
 ├── README.md
 ```
