@@ -1,0 +1,60 @@
+{
+  "feature_mappings": {
+    "person_human-height": 1,
+    "person_A_Buttock-popliteal length": 2,
+    "person_B_Popliteal-height": 3,
+    "person_C_Hip-breadth": 4,
+    "person_F_Sitting-height": 5,
+    "person_G_Shoulder-breadth": 6,
+    "chair_h8_지면-좌석 높이_MIN": 7,
+    "chair_h8_지면-좌석 높이_MAX": 8,
+    "chair_b3_좌석 가로 길이": 9,
+    "chair_t4_좌석 세로 길이 일반": 10,
+    "chair_b4_등받이 가로 길이": 11,
+    "chair_h7_등받이 세로 길이": 12,
+    "height_match_score": 13,
+    "width_margin_ratio": 14,
+    "depth_margin_ratio": 15,
+    "backrest_height_ratio": 16,
+    "shoulder_width_ratio": 17,
+    "adjustable_range": 18,
+    "헤드레스트 유무_0": 19,
+    "헤드레스트 유무_1": 20,
+    "팔걸이 유무_0": 21,
+    "팔걸이 유무_1": 22,
+    "요추지지대 유무_0": 23,
+    "요추지지대 유무_1": 24,
+    "높이 조절 레버 유무_0": 25,
+    "높이 조절 레버 유무_1": 26,
+    "틸팅 여부_0": 27,
+    "틸팅 여부_1": 28,
+    "등받이 곧/꺾_0": 29,
+    "등받이 곧/꺾_1": 30
+  },
+  "total_features": 30,
+  "numerical_features": 18,
+  "categorical_features": [
+    "헤드레스트 유무",
+    "팔걸이 유무",
+    "요추지지대 유무",
+    "높이 조절 레버 유무",
+    "틸팅 여부",
+    "등받이 곧/꺾"
+  ],
+  "person_features": [
+    "human-height",
+    "A_Buttock-popliteal length",
+    "B_Popliteal-height",
+    "C_Hip-breadth",
+    "F_Sitting-height",
+    "G_Shoulder-breadth"
+  ],
+  "chair_numerical_features": [
+    "h8_지면-좌석 높이_MIN",
+    "h8_지면-좌석 높이_MAX",
+    "b3_좌석 가로 길이",
+    "t4_좌석 세로 길이 일반",
+    "b4_등받이 가로 길이",
+    "h7_등받이 세로 길이"
+  ]
+}
