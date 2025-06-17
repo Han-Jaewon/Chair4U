@@ -1,0 +1,286 @@
+{
+  "할머니": {
+    "person_specs": {
+      "height": "156.0cm",
+      "popliteal_height": "43.0cm",
+      "hip_breadth": "32.0cm",
+      "sitting_height": "40.0cm",
+      "shoulder_breadth": "33.0cm"
+    },
+    "top_5_chairs": [
+      {
+        "chair_idx": 104100,
+        "chair_name": "Chair_104100",
+        "score": 0.537310004234314,
+        "specs": {
+          "height_range": "280-540mm",
+          "seat_width": "580mm",
+          "seat_depth": "670mm",
+          "backrest_height": "250mm",
+          "backrest_width": "630mm"
+        }
+      },
+      {
+        "chair_idx": 133192,
+        "chair_name": "Chair_133192",
+        "score": 0.5338526368141174,
+        "specs": {
+          "height_range": "405-520mm",
+          "seat_width": "630mm",
+          "seat_depth": "670mm",
+          "backrest_height": "250mm",
+          "backrest_width": "650mm"
+        }
+      },
+      {
+        "chair_idx": 315370,
+        "chair_name": "Chair_315370",
+        "score": 0.5328435301780701,
+        "specs": {
+          "height_range": "280-520mm",
+          "seat_width": "510mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "510mm"
+        }
+      },
+      {
+        "chair_idx": 825667,
+        "chair_name": "Chair_825667",
+        "score": 0.5328183770179749,
+        "specs": {
+          "height_range": "280-480mm",
+          "seat_width": "470mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "505mm"
+        }
+      },
+      {
+        "chair_idx": 675568,
+        "chair_name": "Chair_675568",
+        "score": 0.5309210419654846,
+        "specs": {
+          "height_range": "280-570mm",
+          "seat_width": "505mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "480mm"
+        }
+      }
+    ]
+  },
+  "다온": {
+    "person_specs": {
+      "height": "151.0cm",
+      "popliteal_height": "41.0cm",
+      "hip_breadth": "30.0cm",
+      "sitting_height": "40.0cm",
+      "shoulder_breadth": "36.0cm"
+    },
+    "top_5_chairs": [
+      {
+        "chair_idx": 315370,
+        "chair_name": "Chair_315370",
+        "score": 0.5531609058380127,
+        "specs": {
+          "height_range": "280-520mm",
+          "seat_width": "510mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "510mm"
+        }
+      },
+      {
+        "chair_idx": 825667,
+        "chair_name": "Chair_825667",
+        "score": 0.5514563918113708,
+        "specs": {
+          "height_range": "280-480mm",
+          "seat_width": "470mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "505mm"
+        }
+      },
+      {
+        "chair_idx": 717054,
+        "chair_name": "Chair_717054",
+        "score": 0.5514401793479919,
+        "specs": {
+          "height_range": "390-510mm",
+          "seat_width": "520mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "650mm"
+        }
+      },
+      {
+        "chair_idx": 675568,
+        "chair_name": "Chair_675568",
+        "score": 0.5512132048606873,
+        "specs": {
+          "height_range": "280-570mm",
+          "seat_width": "505mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "480mm"
+        }
+      },
+      {
+        "chair_idx": 605662,
+        "chair_name": "Chair_605662",
+        "score": 0.5480832457542419,
+        "specs": {
+          "height_range": "280-555mm",
+          "seat_width": "520mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "480mm"
+        }
+      }
+    ]
+  },
+  "민아": {
+    "person_specs": {
+      "height": "152.5cm",
+      "popliteal_height": "38.0cm",
+      "hip_breadth": "38.0cm",
+      "sitting_height": "40.0cm",
+      "shoulder_breadth": "35.0cm"
+    },
+    "top_5_chairs": [
+      {
+        "chair_idx": 315370,
+        "chair_name": "Chair_315370",
+        "score": 0.5608962178230286,
+        "specs": {
+          "height_range": "280-520mm",
+          "seat_width": "510mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "510mm"
+        }
+      },
+      {
+        "chair_idx": 825667,
+        "chair_name": "Chair_825667",
+        "score": 0.5596932172775269,
+        "specs": {
+          "height_range": "280-480mm",
+          "seat_width": "470mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "505mm"
+        }
+      },
+      {
+        "chair_idx": 675568,
+        "chair_name": "Chair_675568",
+        "score": 0.5591248869895935,
+        "specs": {
+          "height_range": "280-570mm",
+          "seat_width": "505mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "480mm"
+        }
+      },
+      {
+        "chair_idx": 717054,
+        "chair_name": "Chair_717054",
+        "score": 0.5564772486686707,
+        "specs": {
+          "height_range": "390-510mm",
+          "seat_width": "520mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "650mm"
+        }
+      },
+      {
+        "chair_idx": 605662,
+        "chair_name": "Chair_605662",
+        "score": 0.5557824969291687,
+        "specs": {
+          "height_range": "280-555mm",
+          "seat_width": "520mm",
+          "seat_depth": "670mm",
+          "backrest_height": "380mm",
+          "backrest_width": "480mm"
+        }
+      }
+    ]
+  },
+  "재원": {
+    "person_specs": {
+      "height": "162.0cm",
+      "popliteal_height": "44.0cm",
+      "hip_breadth": "39.5cm",
+      "sitting_height": "42.0cm",
+      "shoulder_breadth": "39.0cm"
+    },
+    "top_5_chairs": [
+      {
+        "chair_idx": 104100,
+        "chair_name": "Chair_104100",
+        "score": 0.5426475405693054,
+        "specs": {
+          "height_range": "280-540mm",
+          "seat_width": "580mm",
+          "seat_depth": "670mm",
+          "backrest_height": "250mm",
+          "backrest_width": "630mm"
+        }
+      },
+      {
+        "chair_idx": 133192,
+        "chair_name": "Chair_133192",
+        "score": 0.537494957447052,
+        "specs": {
+          "height_range": "405-520mm",
+          "seat_width": "630mm",
+          "seat_depth": "670mm",
+          "backrest_height": "250mm",
+          "backrest_width": "650mm"
+        }
+      },
+      {
+        "chair_idx": 462834,
+        "chair_name": "Chair_462834",
+        "score": 0.535541832447052,
+        "specs": {
+          "height_range": "420-380mm",
+          "seat_width": "500mm",
+          "seat_depth": "400mm",
+          "backrest_height": "470mm",
+          "backrest_width": "650mm"
+        }
+      },
+      {
+        "chair_idx": 627400,
+        "chair_name": "Chair_627400",
+        "score": 0.5343594551086426,
+        "specs": {
+          "height_range": "410-380mm",
+          "seat_width": "630mm",
+          "seat_depth": "480mm",
+          "backrest_height": "430mm",
+          "backrest_width": "650mm"
+        }
+      },
+      {
+        "chair_idx": 707169,
+        "chair_name": "Chair_707169",
+        "score": 0.5334036350250244,
+        "specs": {
+          "height_range": "280-530mm",
+          "seat_width": "460mm",
+          "seat_depth": "670mm",
+          "backrest_height": "250mm",
+          "backrest_width": "630mm"
+        }
+      }
+    ]
+  }
+}

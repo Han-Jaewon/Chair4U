@@ -1,0 +1,21 @@
+person_id,rank,chair_name,probability_score,ranking_score,fit_count,buttock_fit,height_fit,hip_fit,back_fit,shoulder_fit
+할머니,1,뮤즈 편한 팔걸이 컴퓨터 메쉬 사무용 책상 의자,,,0,False,False,False,False,False
+할머니,2,뮤즈 편한 팔걸이 헤드형 컴퓨터 메쉬 책상 의자,,,0,False,False,False,False,False
+할머니,3,[무료배송]버디시리즈(CPS) 아마존 최다판매 학생용사무용 메쉬의자,,,2,False,False,True,False,True
+할머니,4,[무료배송]버디시리즈(CPSH) 아마존 최다판매 학생용사무용 메쉬의자,,,2,False,False,True,False,True
+할머니,5,미니 타이탄 기본형 게이밍 학생 컴퓨터 사무용 발받침 의자 3color,,,2,False,False,True,False,True
+다온,1,뮤즈 편한 팔걸이 컴퓨터 메쉬 사무용 책상 의자,,,0,False,False,False,False,False
+다온,2,뮤즈 편한 팔걸이 헤드형 컴퓨터 메쉬 책상 의자,,,0,False,False,False,False,False
+다온,3,[무료배송]버디시리즈(CPS) 아마존 최다판매 학생용사무용 메쉬의자,,,3,True,False,True,False,True
+다온,4,[무료배송]버디시리즈(CPSH) 아마존 최다판매 학생용사무용 메쉬의자,,,3,True,False,True,False,True
+다온,5,미니 타이탄 기본형 게이밍 학생 컴퓨터 사무용 발받침 의자 3color,,,3,True,False,True,False,True
+민아,1,뮤즈 편한 팔걸이 컴퓨터 메쉬 사무용 책상 의자,,,0,False,False,False,False,False
+민아,2,뮤즈 편한 팔걸이 헤드형 컴퓨터 메쉬 책상 의자,,,0,False,False,False,False,False
+민아,3,[무료배송]버디시리즈(CPS) 아마존 최다판매 학생용사무용 메쉬의자,,,3,True,False,True,False,True
+민아,4,[무료배송]버디시리즈(CPSH) 아마존 최다판매 학생용사무용 메쉬의자,,,3,True,False,True,False,True
+민아,5,미니 타이탄 기본형 게이밍 학생 컴퓨터 사무용 발받침 의자 3color,,,2,False,False,True,False,True
+재원,1,뮤즈 편한 팔걸이 컴퓨터 메쉬 사무용 책상 의자,,,0,False,False,False,False,False
+재원,2,뮤즈 편한 팔걸이 헤드형 컴퓨터 메쉬 책상 의자,,,0,False,False,False,False,False
+재원,3,[무료배송]버디시리즈(CPS) 아마존 최다판매 학생용사무용 메쉬의자,,,3,True,False,True,False,True
+재원,4,[무료배송]버디시리즈(CPSH) 아마존 최다판매 학생용사무용 메쉬의자,,,3,True,False,True,False,True
+재원,5,미니 타이탄 기본형 게이밍 학생 컴퓨터 사무용 발받침 의자 3color,,,2,False,False,True,False,True
